@@ -17,7 +17,6 @@ Include the neural network model diagram.
 -Use DataLoader to create iterable batches with shuffling for training.
 
 ### STEP 2: 
-Define a custom CNN architecture in a class ConvolutionalNetwork, using:
 2 convolutional layers
 -Max pooling
 -Fully connected layers
